@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "641650900739",
+    "firebase_url": "https://rnpracticeproject.firebaseio.com",
+    "project_id": "rnpracticeproject",
+    "storage_bucket": "rnpracticeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641650900739:android:92623757070aeee46b7336",
+        "android_client_info": {
+          "package_name": "com.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641650900739-mjlqq9n6rl4h8ta4k8smmj4b1905mfsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJuJg5UbTQRJnTpD5QiEQz8zACy1S9Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641650900739-mjlqq9n6rl4h8ta4k8smmj4b1905mfsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
